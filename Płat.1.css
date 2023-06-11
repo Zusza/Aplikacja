@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(133, 179, 136);
+    font-family: 'Nunito Sans', sans-serif;
+    background-attachment: fixed;
+    opacity: 90%;
+}
+.c{
+    background-color: rgb(136, 197, 140);
+    border: 1px solid rgb(136, 197, 140);
+    gap: 15px;
+    text-align: center;
+    padding: auto;
+    border-width: 1px;
+    width: 378px;
+    height: 120px;
+}
+.d{
+    background-color: rgb(136, 197, 140);
+    border: 3px solid rgb(95, 128, 97);
+    width: 380px;
+    text-align: center;
+    padding: auto;
+    border-width: 1px;
+    float:right;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.zakup{
+    float:right;
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 20px;
+ }
